@@ -9,17 +9,16 @@
 <p>
   
 </p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-
 
 <pre>
-💻 I am mainly a Backend Developer
-📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
-📝 I have a strong interest in Software Engineering and Design
-🛠️ Currently working on a fintech solution with @PesaLock
-🌱 Learning about efficient designs for scalable systems
-🌟 Main language: Java 😁
-🚩 Interested in Server Side Application development
-😃 I look forward to collaborate on impactful projects
+💻 Soy Ingeniero en Dasarrollo y Gestión de Software.
+📚 Tengo +3 años de experiencia en el desarrollo web y mobile.
+🛠️ Actualmente trabajo como desarrollador FullStack PHP/JAVA.
+😃 Facilidad de trabajar en equipos de alto rendimiento.
+</pre>
+<hr>
+
+
+  
 </pre>
 <hr>

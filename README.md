@@ -68,6 +68,16 @@
       alt="react"/> 
   </a>
 
+  <a href="https://astro.build/" target="_blank"> 
+    <img src="https://img.shields.io/badge/astro-BC52EE.svg?style=for-the-badge&logo=astro&logoColor=black"
+      alt="astro"/> 
+  </a>
+
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="nodejs"/> 
+  </a>
+  
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
@@ -95,11 +105,6 @@
   <a href="https://vitejs.dev/" target="_blank"> 
     <img src="https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
       alt="vite"/> 
-  </a>
-  
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
   </a>
   
 </p>

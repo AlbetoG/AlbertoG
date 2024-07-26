@@ -10,7 +10,7 @@
 
 <pre>
 💻 Soy Ingeniero en Dasarrollo y Gestión de Software.
-📚 Tengo +3 años de experiencia en el desarrollo web y mobile.
+📚 Tengo +3 años de experiencia en el desarrollo web.
 🛠️ Actualmente trabajo como desarrollador FullStack PHP/JAVA.
 😃 Facilidad de trabajar en equipos de alto rendimiento.
 </pre>

@@ -63,10 +63,10 @@
       alt="angular"/> 
   </a>
 
-  <a href="https://reactjs.org/" target="_blank"> 
+  <!-- <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
-  </a>
+  </a> -->
 
   <a href="https://astro.build/" target="_blank"> 
     <img src="https://img.shields.io/badge/astro-BC52EE.svg?style=for-the-badge&logo=astro&logoColor=black"
@@ -117,9 +117,9 @@
       alt="laravel"/> 
    </a>
      
-  <a href="https://spring.io/" target="_blank"> 
+  <!-- <a href="https://spring.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
+  </a> -->
 
    <a href="https://lumen.laravel.com/docs/10.x" target="_blank"> 
     <img src="https://img.shields.io/badge/lumen-E74430.svg?style=for-the-badge&logo=lumen&logoColor=white"
@@ -158,13 +158,13 @@
     <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
       alt="redis"/>
   </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
+ <!-- <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
       alt="sqlite"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
+  </a> -->
+  <!-- <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
+      alt="mongodb"/> -->
   </a> 
 </p>
 
@@ -218,9 +218,9 @@
       alt="docker"/>
   </a>
   
-  <a href="https://www.jenkins.io" target="_blank"> 
+  <!-- <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-  </a>
+  </a> -->
   
 </p>
 

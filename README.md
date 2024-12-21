@@ -63,10 +63,10 @@
       alt="angular"/> 
   </a>
 
-  <!-- <a href="https://reactjs.org/" target="_blank"> 
+  <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
-  </a> -->
+  </a>
 
   <a href="https://astro.build/" target="_blank"> 
     <img src="https://img.shields.io/badge/astro-BC52EE.svg?style=for-the-badge&logo=astro&logoColor=black"

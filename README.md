@@ -134,7 +134,13 @@
   <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
       alt="nginx"/> 
-  </a> 
+  </a>
+
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> 
+    <img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> 
+  </a>
+
+  
 
   <a href="https://flutter.dev/" target="_blank"> 
     <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" 
@@ -190,9 +196,18 @@
     <img src="https://img.shields.io/badge/phpunit-25A162.svg?style=for-the-badge&logo=phpunit&logoColor=white" alt="phpunit" /> 
   </a> 
   
-   <a href="https://jmeter.apache.org/" target="_blank"> 
+  <a href="https://jmeter.apache.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/apachejmeter-D22128.svg?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="apachejmeter" /> 
   </a> 
+
+  <a href="https://www.selenium.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" /> 
+  </a>
+
+  <a href="https://jestjs.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white" alt="jest" /> 
+  </a>
+  
   
 </p>
 
